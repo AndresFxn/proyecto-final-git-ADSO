@@ -7,3 +7,5 @@
 
 
 - Rama desarrollo creada y editada
+
+Notas iniciales del proyecto
