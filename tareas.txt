@@ -1,0 +1,7 @@
+TAREAS DEL PROYECTO
+
+1. Crear ramas nuevas
+2. Hacer commits por cada cambio
+3. Subir cambios al remoto
+4. Resolver conflictos
+5. Finalizar el proyecto
