@@ -42,3 +42,19 @@ Git es un sistema de control de versiones que permite guardar el historial de ca
 
 ## Conclusión del día
 Hoy aprendí a inicializar un repositorio, conectarlo a GitHub, hacer commits, subir cambios, manejar ramas y resolver errores básicos de Git. Ya entiendo cómo funciona el flujo completo y puedo seguir avanzando en el proyecto.
+
+## Problemas del día
+- Algunos conflictos al hacer merge
+- Archivos ocultos no detectados por Git
+
+## ¿Qué aprendí hoy?
+- Uso completo de ramas y pull requests
+- Cómo manejar archivos ignorados (.gitignore)
+- Buenas prácticas de commits y documentación
+
+## Lo más difícil
+- Resolver conflictos y asegurar que todo se mantenga limpio
+- Organizar tareas y estado de las mismas
+
+## Conclusión del taller
+Este ejercicio simula un flujo profesional real, integrando ramas, PRs, merges y documentación. Es muy útil para preparar un flujo de trabajo profesional en proyectos colaborativos.
