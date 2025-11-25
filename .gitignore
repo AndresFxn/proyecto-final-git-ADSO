@@ -1,6 +1,6 @@
-# Archivos temporales
-*.log
-*.tmp
-cache/
+code .gitignore
+
 .env
-.vscode/
+*.log
+cache/
+node_modules/
