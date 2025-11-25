@@ -16,3 +16,21 @@ function login(usuario, contraseña) {
 }
 
 console.log(login("admin", "1234"));
+
+
+/*
+  Rama: feature/footer
+  Fecha: (pon tu fecha de hoy)
+  Descripción: Aquí irá el código de la funcionalidad del footer.
+*/
+/*
+  Rama: feature/footer
+  Fecha: 2025
+  Descripción: Estructura inicial del footer.
+*/
+
+function mostrarFooter() {
+  return "© 2025 - Proyecto Final Git ADSO";
+}
+
+console.log(mostrarFooter());
