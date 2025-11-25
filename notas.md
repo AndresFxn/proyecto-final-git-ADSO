@@ -4,3 +4,6 @@
 - Creación del README
 - Primer commit
 - Subida al repositorio remoto (GitHub)
+
+
+- Rama desarrollo creada y editada
