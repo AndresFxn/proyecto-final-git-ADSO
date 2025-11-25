@@ -1,0 +1,6 @@
+code .gitignore
+
+.env
+*.log
+cache/
+node_modules/

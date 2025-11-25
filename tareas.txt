@@ -5,3 +5,17 @@ TAREAS DEL PROYECTO
 3. Subir cambios al remoto
 4. Resolver conflictos
 5. Finalizar el proyecto
+
+
+Tareas pendientes:
+- Implementar login
+- Crear validaciones de formulario
+- Mejorar estilos de la página principal
+
+Tareas realizadas:
+- Configuración inicial del proyecto
+- Primer commit con estructura básica
+
+Tareas bloqueadas:
+- Integración con API externa
+- Optimización de la base de datos
