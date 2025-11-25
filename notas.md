@@ -8,4 +8,5 @@
 
 - Rama desarrollo creada y editada
 
-Notas iniciales del proyecto
+Notas del estudiante A
+
