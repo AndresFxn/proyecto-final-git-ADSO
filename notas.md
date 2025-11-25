@@ -8,5 +8,6 @@
 
 - Rama desarrollo creada y editada
 
-Notas del estudiante A
+Notas combinadas del equipo
+
 
